@@ -1,6 +1,6 @@
 # company-briefing-ai
 AI-powered tool to generate company and role-specific briefings using recent data
-
+https://coderabhishek.github.io/company-briefing-ai/
 
 # Pre-Call Intel Briefing Tool
 An AI-powered interview prep tool that researches any company 
