@@ -1,5 +1,5 @@
 # company-briefing-ai
-AI-powered tool to generate company and role-specific briefings using recent data
+An AI-powered pre-call briefing tool that reads your resume, searches the web in real time, and generates personalized talking points, company insights, and smart questions — so you walk into every HR call fully prepared in under 60 seconds.
 https://coderabhishek.github.io/company-briefing-ai/
 
 Built with: HTML + Anthropic Claude API (web search enabled)
