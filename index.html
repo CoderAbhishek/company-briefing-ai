@@ -613,7 +613,8 @@ Return a structured JSON object ONLY (no markdown, no backticks, no extra text) 
       headers: {
         "Content-Type": "application/json",
         "anthropic-version": "2023-06-01",
-        "x-api-key": apiKey
+        "x-api-key": apiKey,
+        "anthropic-dangerous-direct-browser-access": "true"
       },
       body: JSON.stringify({
         model: "claude-sonnet-4-20250514",
